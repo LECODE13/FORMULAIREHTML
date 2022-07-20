@@ -3,7 +3,7 @@
 	margin: 0;
 }
 header{
-	background-image:linear-gradient( rgba(0,0,0,0.9),rgba(0,0,0,0.9)),url(./image/hty.jpg);
+	background-image:linear-gradient( rgba(0,0,0,0.2),rgba(0,0,0,0.2)),url(./image/hty.jpg);
 	height: 700px;
 	background-size:cover;
 	background-position:center; 
